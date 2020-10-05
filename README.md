@@ -1,4 +1,4 @@
-# myapp
+# Counter App
 
 A new Flutter application.
 
